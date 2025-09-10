@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🤖 Mini AI Bot
 
 An AI-powered multi-chat assistant that answers questions in real time, fetches and summarizes live web information, and manages multiple conversations seamlessly.  
@@ -25,21 +21,20 @@ This project showcases **end-to-end full-stack Python development** with **AI in
 - **LLMs** (reasoning & response generation)  
 - **Tavily Search** (real-time search & summarization)  
 - **Streamlit** (UI framework)  
-
-
 ---
 
 
+
+---
 
 ## ⚡ Getting Started
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/miravanisri/Mini-AI-Bot
-cd Mini AI Bot.ipynb
-````
-
-### 3️⃣ Set environment variables
+git clone https://github.com/your-username/Mini-Ai-Bot.git
+cd Mini Ai Bot.ipynb
+```
+### 2️⃣ Set environment variables
 
 Create a `.env` file and add your API keys:
 
@@ -48,7 +43,7 @@ TAVILY_API_KEY=your_api_key_here
 GROQ_API_KEY=your_api_key_here
 ```
 
-### 4️⃣ Run the app
+### 3️⃣ Run the app
 
 ```bash
 streamlit run app.py
@@ -64,3 +59,4 @@ streamlit run app.py
 * Showcasing **LLM + full-stack Python integration**
 
 ---
+
