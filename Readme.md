@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d852b449-19f6-4402-a466-6da27d705827
+
 # 🤖 Mini AI Bot
 
 An AI-powered multi-chat assistant that answers questions in real time, fetches and summarizes live web information, and manages multiple conversations seamlessly.  
@@ -62,5 +66,9 @@ streamlit run app.py
 
 
 
-https://github.com/user-attachments/assets/4dc11f28-dce5-46b1-9592-5609528cf025
+
+
+
+
+
 
